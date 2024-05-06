@@ -1,4 +1,4 @@
-- Smoothing set to 74%.
+- Smoothing set to 75%.
 - These are all mean values.
 	- Evaluation episodes is 5.
 	
